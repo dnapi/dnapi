@@ -18,4 +18,4 @@
 [3.3]: https://img.shields.io/badge/R-green (R)
 
 [4.1]: https://github-readme-stats.vercel.app/api?username=dnapi&theme=catppuccin_mocha (Stats)
-[4.2]: https://github-readme-stats.vercel.app/api/top-langs/?username=dnapi&layout=compact&count_private=fals&theme=catppuccin_mocha (Top)
+[4.2]: https://github-readme-stats.vercel.app/api/top-langs/?username=dnapi&layout=compact&count_private=fals&theme=catppuccin_mocha&hide=jupyter%20notebook (Top)
