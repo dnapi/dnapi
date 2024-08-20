@@ -3,6 +3,11 @@
 ### You can reach me on [LinkedIn][2.1].
 
 ### 💻 Programming languages: 
+[![C](https://img.shields.io/badge/C-blue)](https://www.cprogramming.com/)
+[![C++](https://img.shields.io/badge/C++-green)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/Python-green)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-green)](https://www.r-project.org/)
+
 ![C][3.1] ![C++][3.2] ![Python][3.3] ![R][3.4]
 
 ![Stats][4.1]
