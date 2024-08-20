@@ -4,12 +4,12 @@
 
 ### 💻 Programming languages: 
 [![C](https://img.shields.io/badge/C-blue)](https://www.cprogramming.com/)
-[![C++](https://img.shields.io/badge/C++-green)](https://isocpp.org/)
+[![C++](https://img.shields.io/badge/C++-blue)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-green)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-green)](https://www.r-project.org/)
 [![Stan](https://img.shields.io/badge/Stan-red)](https://mc-stan.org/)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080)](https://www.latex-project.org/)
-[![Wolfram](https://img.shields.io/badge/Wolfram_Mathematica-darkred)](https://www.wolfram.com/mathematica/)
+[![Wolfram](https://img.shields.io/badge/Wolfram-darkred)](https://www.wolfram.com/mathematica/)
 [![FORM](https://img.shields.io/badge/FORM-blue)](https://www.nikhef.nl/~form/)
 [![REDUCE](https://img.shields.io/badge/REDUCE-purple)](http://www.reduce-algebra.com/)
 
