@@ -1,5 +1,11 @@
 # Hi! My name is Alexandr Pimikov.
 
+My passion for understanding how things work led me to pursue a PhD in Theoretical Physics, where I delved deep into the complexities of the universe through advanced mathematics. Throughout my academic career, I published over 30 works in top-tier international journals, contributing to significant advancements in the field.
+
+Driven by a love for problem-solving, I transitioned into the world of software development, where I apply my analytical skills to create innovative solutions. Currently, I am honing my programming expertise in C and C++ at Hive, a coding school renowned for its rigorous training.
+
+In addition to my study at Hive, I have completed Yandex's Practical Bootcamp on Data Science and attended advanced courses in Deep Learning and Bayesian Data Analysis at Aalto University. These experiences have provided me with a solid foundation in both the practical and theoretical aspects of data science and machine learning, which I am eager to apply to real-world challenges.
+
 ### You can reach me on [LinkedIn][2.1].
 
 ### 💻 Programming languages: 
