@@ -1,4 +1,4 @@
-# Hi! My name is Alexandr Pimikov.
+# Hi! My name is Alexandr.
 
 My passion for understanding complex systems led me to earn a PhD in Theoretical Physics. I then transitioned into software development, applying my analytical skills to create innovative solutions. Currently, I am sharpening my C and C++ skills at Hive, a renowned coding school. Additionally, I've completed Yandex's Data Science Bootcamp and advanced courses in Deep Learning and Bayesian Data Analysis at Aalto University, building a strong foundation in both theoretical and practical data science.
 
