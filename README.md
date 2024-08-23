@@ -1,6 +1,8 @@
 # Hi! My name is Alexandr.
 
-My passion for understanding complex systems led me to earn a PhD in Theoretical Physics. I then transitioned into software development, applying my analytical skills to create innovative solutions. Currently, I am sharpening my C and C++ skills at Hive, a renowned coding school. Additionally, I've completed Yandex's Data Science Bootcamp and advanced courses in Deep Learning and Bayesian Data Analysis at Aalto University, building a strong foundation in both theoretical and practical data science.
+Driven by my love for problem-solving, I transitioned from physics to software development. I am currently sharpening my C and C++ skills at Hive, a coding school.
+
+In addition to my study at Hive, I have completed Yandex's Practical Bootcamp on Data Science and attended advanced courses in Deep Learning and Bayesian Data Analysis at Aalto University. These experiences have provided me with a solid foundation in both the practical and theoretical aspects of data science and machine learning, which I am eager to apply to real-world challenges.
 
 ### You can reach me on [LinkedIn][2.1].
 
