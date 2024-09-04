@@ -1,6 +1,6 @@
 # Hi! My name is Alexandr.
 
-Driven by my love for problem-solving, I transitioned from physics to software development. I am currently sharpening my C and C++ skills at Hive, a coding school.
+Driven by my love for problem-solving, I transitioned from physics to data scientist and software developer. I am currently sharpening my C and C++ skills at Hive, a coding school.
 
 In addition to my study at Hive, I have completed Yandex's Practical Bootcamp on Data Science and attended advanced courses in Deep Learning and Bayesian Data Analysis at Aalto University. These experiences have provided me with a solid foundation in both the practical and theoretical aspects of data science and machine learning, which I am eager to apply to real-world challenges.
 
