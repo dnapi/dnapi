@@ -12,6 +12,7 @@ In addition to my study at Hive, I have completed Yandex's Practical Bootcamp on
 [![Python](https://img.shields.io/badge/Python-green)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-green)](https://www.r-project.org/)
 [![Stan](https://img.shields.io/badge/Stan-red)](https://mc-stan.org/)
+[![brms](https://img.shields.io/badge/brms-orange)](https://mc-stan.org/users/interfaces/brms)
 [![SQL](https://img.shields.io/badge/SQL-336791)](https://en.wikipedia.org/wiki/SQL)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C)](https://pytorch.org/)
 [![Keras](https://img.shields.io/badge/Keras-D00000)](https://keras.io/)
