@@ -2,9 +2,9 @@
 
 I have extensive experience in developing machine learning models, uncovering valuable insights from data, and working with C and C++ for system programming and software development. I am passionate about helping others and thrive in collaborative team environments where I can make a meaningful impact.
 
-Driven by my love for problem-solving, I transitioned from physics to data scientist and software developer. I am currently sharpening my C and C++ skills at Hive, a coding school.
+Driven by my love for problem-solving, I transitioned from physics to data scientist and software developer. 
 
-In addition to my study at Hive, I have completed Yandex's Practical Bootcamp on Data Science and attended advanced courses in Deep Learning and Bayesian Data Analysis at Aalto University. These experiences have provided me with a solid foundation in both the practical and theoretical aspects of data science and machine learning, which I am eager to apply to real-world challenges.
+I have a solid foundation in both the practical and theoretical aspects of data science and machine learning, which I am eager to apply to real-world challenges.
 
 ### You can reach me on [LinkedIn][2.1].
 
