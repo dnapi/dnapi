@@ -4,7 +4,7 @@ I have extensive experience in developing machine learning models, uncovering va
 
 Driven by my love for problem-solving, I transitioned from physics to data scientist and software developer. 
 
-I have a solid foundation in both the practical and theoretical aspects of data science and machine learning, which I am eager to apply to real-world challenges.
+I have a solid foundation in both the practical and theoretical aspects of data science and machine learning, which I am appling to real-world challenges.
 
 ### You can reach me on [LinkedIn][2.1].
 
